@@ -21,3 +21,8 @@ Microsoft Surface laptops were the least popular brand that they responded with,
 
 ## Macbooks and Dell
 Apple Macbooks, and Dell were the options that were not responded to, I assume this is due to small survey size, as there are people that I know that do use macbooks and dell devices. 
+
+## Conclusion
+
+What laptop you buy depends on two factors, budget and what you want to be able to do with it.
+If you want to save on money, go with Lenovo, as they had fairly satisfied users but still at a reasonable price. HP, while cheaper, had very unsatisfied users, and you'd be wasting money risking buying a cheap HP. If you have the budget however, buy a Microsoft Surface, they have highly satisfied customers and can do a bit more than what the Lenovo laptops can.
