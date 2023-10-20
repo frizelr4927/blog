@@ -8,7 +8,8 @@ I found that:
 ![https://file.coffee/u/G3fHd4efdBgWzaMre39Q9.png](https://file.coffee/u/G3fHd4efdBgWzaMre39Q9.png)
 
 Lenovo was the most popular brand, followed by HP and Microsoft Surface
- Something that I found was that the most popular brands did not have the highest satisfaction rates, rather the lesser-known brands or lesser-used brands had the larger amount  of satisfaction.
+
+Something that I found was that the most popular brands did not have the highest satisfaction rates, rather the lesser-known brands or lesser-used brands had the larger amount  of satisfaction.
 
 ## Lenovo
 Lenovo was most popular, but had about 60% satisfaction. This could indicate that they make good laptops, but have a few issues that students might need to work out to use them to their max potential.
